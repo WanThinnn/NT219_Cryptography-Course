@@ -1,0 +1,81 @@
+
+Running command: ./AES__CLI encrypt ECB key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_ECB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: ECB
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_ECB.txt
+Size of ciphertext file: 5208272 bytes
+Encryption time: 254632 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CBC key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_CBC.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CBC
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_CBC.txt
+Size of ciphertext file: 5208272 bytes
+Encryption time: 294238 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CFB key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_CFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CFB
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_CFB.txt
+Size of ciphertext file: 5208262 bytes
+Encryption time: 303666 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt OFB key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_OFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: OFB
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_OFB.txt
+Size of ciphertext file: 5208262 bytes
+Encryption time: 298805 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CTR key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_CTR.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CTR
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_CTR.txt
+Size of ciphertext file: 5208262 bytes
+Encryption time: 240249 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt XTS key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_XTS.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: XTS
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_XTS.txt
+Size of ciphertext file: 5208262 bytes
+Encryption time: 309784 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt GCM key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_GCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: GCM
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_GCM.txt
+Size of ciphertext file: 5208274 bytes
+Encryption time: 247856 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CCM key_AES.key DER ./all_test_cases/case_6.txt Text ./result_linux/case_6/case_6_cp_CCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CCM
+Plaintext file: ./all_test_cases/case_6.txt
+Size of plaintext file: 5208262 bytes
+Ciphertext file: ./result_linux/case_6/case_6_cp_CCM.txt
+Size of ciphertext file: 5208270 bytes
+Encryption time: 315544 milliseconds
+----------------------------------------------------------

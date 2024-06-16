@@ -1,0 +1,8 @@
+
+
+
+Running command: AES__CLI.exe genkey 256 DER key_AES.key
+Command executed successfully.
+----------------------------------------------------------
+Successfully generate Key and IV! Key and IV saved to: key_AES.key and iv.{format}!
+----------------------------------------------------------
