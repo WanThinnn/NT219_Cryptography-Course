@@ -1,0 +1,16 @@
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\bin\x64\Debug\net8.0-windows\rsa_gui.exe
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\bin\x64\Debug\net8.0-windows\rsa_gui.deps.json
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\bin\x64\Debug\net8.0-windows\rsa_gui.runtimeconfig.json
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\bin\x64\Debug\net8.0-windows\rsa_gui.dll
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\bin\x64\Debug\net8.0-windows\rsa_gui.pdb
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.rsa_gui.resources
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.csproj.GenerateResource.cache
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.AssemblyInfoInputs.cache
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.AssemblyInfo.cs
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.csproj.CoreCompileInputs.cache
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.dll
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\refint\rsa_gui.dll
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.pdb
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\rsa_gui.genruntimeconfig.cache
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\rsa_gui\rsa_gui\obj\x64\Debug\net8.0-windows\ref\rsa_gui.dll
