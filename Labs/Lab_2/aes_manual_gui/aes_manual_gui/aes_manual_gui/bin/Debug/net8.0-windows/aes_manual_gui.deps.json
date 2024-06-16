@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aes_manual_gui/1.0.0": {
+        "runtime": {
+          "aes_manual_gui.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aes_manual_gui/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

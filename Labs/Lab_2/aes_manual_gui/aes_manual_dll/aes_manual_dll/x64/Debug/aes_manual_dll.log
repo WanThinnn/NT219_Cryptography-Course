@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  AES.cpp
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\aes_manual_dll\AES.cpp(367,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/AES.cpp')
+  
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\aes_manual_dll\AES.cpp(373,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/AES.cpp')
+  
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\aes_manual_dll\AES.cpp(402,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/AES.cpp')
+  
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\aes_manual_dll\AES.cpp(409,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/AES.cpp')
+  
+  Generating Code...
+  Compiling...
+  CBC.cpp
+  Generating Code...
+  Compiling...
+  dllmain.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\aes_manual_dll\main.cpp(140,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/main.cpp')
+  
+  Generating Code...
+     Creating library C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\x64\Debug\aes_manual_dll.lib and object C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\x64\Debug\aes_manual_dll.exp
+  aes_manual_dll.vcxproj -> C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\aes_manual_dll\x64\Debug\aes_manual_dll.dll
