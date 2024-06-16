@@ -1,7 +1,0 @@
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\bin\Debug\Lab_3.2-3_MSVC.exe.config
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\bin\Debug\Lab_3.2-3_MSVC.exe
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\bin\Debug\Lab_3.2-3_MSVC.pdb
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\obj\Debug\Lab_3.2-3_MSVC.csproj.AssemblyReference.cache
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\obj\Debug\Lab_3.2-3_MSVC.csproj.CoreCompileInputs.cache
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\obj\Debug\Lab_3.2-3_MSVC.exe
-C:\Users\Thien\UIT\Nam_2\Hoc_Ky_2\Mat_Ma_Hoc\Lab\MMH_Lab_3.2\Lab_3.2-3_MSVC\Lab_3.2-3_MSVC\obj\Debug\Lab_3.2-3_MSVC.pdb

@@ -1,0 +1,8 @@
+
+Lab_3-2_MSVC.exe genkey 3072 DER pri.txt pub.txt
+
+
+Lab_3-2_MSVC.exe encrypt DER pub.txt plaintext.txt cipher.txt
+
+Lab_3-2_MSVC.exe decrypt DER pri.txt cipher.txt rcv.txt
+
