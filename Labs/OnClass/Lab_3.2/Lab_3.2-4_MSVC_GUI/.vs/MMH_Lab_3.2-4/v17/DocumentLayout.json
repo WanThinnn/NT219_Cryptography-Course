@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_3.2-4_MSVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D3012F-B3C7-4F9C-A85E-CC72C1BCA0BD}|MMH_Lab_3.2-4\\MMH_Lab_3.2-4.csproj|c:\\users\\thien\\uit\\nam_2\\hoc_ky_2\\mat_ma_hoc\\lab\\lab_3.2-4_msvc\\mmh_lab_3.2-4\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38D3012F-B3C7-4F9C-A85E-CC72C1BCA0BD}|MMH_Lab_3.2-4\\MMH_Lab_3.2-4.csproj|solutionrelative:mmh_lab_3.2-4\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D3012F-B3C7-4F9C-A85E-CC72C1BCA0BD}|MMH_Lab_3.2-4\\MMH_Lab_3.2-4.csproj|c:\\users\\thien\\uit\\nam_2\\hoc_ky_2\\mat_ma_hoc\\lab\\lab_3.2-4_msvc\\mmh_lab_3.2-4\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D3012F-B3C7-4F9C-A85E-CC72C1BCA0BD}|MMH_Lab_3.2-4\\MMH_Lab_3.2-4.csproj|solutionrelative:mmh_lab_3.2-4\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_3.2-4_MSVC\\MMH_Lab_3.2-4\\RSA.cs",
+              "RelativeDocumentMoniker": "MMH_Lab_3.2-4\\RSA.cs",
+              "ToolTip": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_3.2-4_MSVC\\MMH_Lab_3.2-4\\RSA.cs",
+              "RelativeToolTip": "MMH_Lab_3.2-4\\RSA.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAA2wJgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:34:27.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_3.2-4_MSVC\\MMH_Lab_3.2-4\\RSA.cs",
+              "RelativeDocumentMoniker": "MMH_Lab_3.2-4\\RSA.cs",
+              "ToolTip": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_3.2-4_MSVC\\MMH_Lab_3.2-4\\RSA.cs [Design]",
+              "RelativeToolTip": "MMH_Lab_3.2-4\\RSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:20:20.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
