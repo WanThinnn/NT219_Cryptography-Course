@@ -1,8 +1,0 @@
-- File: ./result/case_1/case_1_result_encrypt.txt
-- Total encryption time: 22.081 seconds
-- AVG encryption time: 0.0022081 seconds ~ 2.2081 miliseconds
-
-
-- File: ./result/case_1/case_1_result_decrypt.txt
-- Total decryption time: 25.178 seconds
-- AVG decryption time: 0.0025178 seconds ~ 2.5178 miliseconds

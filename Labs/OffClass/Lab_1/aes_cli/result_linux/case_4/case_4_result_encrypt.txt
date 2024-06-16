@@ -1,0 +1,81 @@
+
+Running command: ./AES__CLI encrypt ECB key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_ECB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: ECB
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_ECB.txt
+Size of ciphertext file: 104144 bytes
+Encryption time: 7265 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CBC key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_CBC.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CBC
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_CBC.txt
+Size of ciphertext file: 104144 bytes
+Encryption time: 8674 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CFB key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_CFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CFB
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_CFB.txt
+Size of ciphertext file: 104133 bytes
+Encryption time: 10232 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt OFB key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_OFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: OFB
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_OFB.txt
+Size of ciphertext file: 104133 bytes
+Encryption time: 11848 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CTR key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_CTR.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CTR
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_CTR.txt
+Size of ciphertext file: 104133 bytes
+Encryption time: 9275 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt XTS key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_XTS.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: XTS
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_XTS.txt
+Size of ciphertext file: 104133 bytes
+Encryption time: 13348 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt GCM key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_GCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: GCM
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_GCM.txt
+Size of ciphertext file: 104145 bytes
+Encryption time: 10308 milliseconds
+----------------------------------------------------------
+Running command: ./AES__CLI encrypt CCM key_AES.key DER ./all_test_cases/case_4.txt Text ./result_linux/case_4/case_4_cp_CCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CCM
+Plaintext file: ./all_test_cases/case_4.txt
+Size of plaintext file: 104133 bytes
+Ciphertext file: ./result_linux/case_4/case_4_cp_CCM.txt
+Size of ciphertext file: 104141 bytes
+Encryption time: 10665 milliseconds
+----------------------------------------------------------

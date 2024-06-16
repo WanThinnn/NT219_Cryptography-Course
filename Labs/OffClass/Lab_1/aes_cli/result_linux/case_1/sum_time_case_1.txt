@@ -1,0 +1,26 @@
+- File: ./result_linux/case_1/case_1_result_encrypt.txt
+- Encryption Time Per Modes: 
+   + Mode: ECB - Total time: 6.893 seconds ~ 0.6893 miliseconds
+   + Mode: CBC - Total time: 7.716 seconds ~ 0.7716 miliseconds
+   + Mode: CFB - Total time: 8.458 seconds ~ 0.8458 miliseconds
+   + Mode: OFB - Total time: 7.683 seconds ~ 0.7683 miliseconds
+   + Mode: CTR - Total time: 6.599 seconds ~ 0.6599 miliseconds
+   + Mode: XTS - Total time: 6.184 seconds ~ 0.6184 miliseconds
+   + Mode: GCM - Total time: 7.388 seconds ~ 0.7388 miliseconds
+   + Mode: CCM - Total time: 9.708 seconds ~ 0.9708 miliseconds
+- Total encryption time: 60.629 seconds
+- AVG encryption time: 0.0060629 seconds ~ 6.0629 miliseconds
+
+
+- File: ./result_linux/case_1/case_1_result_decrypt.txt
+- Decryption Time Per Modes: 
+   + Mode: ECB - Total time: 1.868 seconds ~ 0.1868 miliseconds
+   + Mode: CBC - Total time: 1.946 seconds ~ 0.1946 miliseconds
+   + Mode: CFB - Total time: 2.02 seconds ~ 0.202 miliseconds
+   + Mode: OFB - Total time: 1.908 seconds ~ 0.1908 miliseconds
+   + Mode: CTR - Total time: 2.063 seconds ~ 0.2063 miliseconds
+   + Mode: XTS - Total time: 1.931 seconds ~ 0.1931 miliseconds
+   + Mode: GCM - Total time: 2.141 seconds ~ 0.2141 miliseconds
+   + Mode: CCM - Total time: 2.042 seconds ~ 0.2042 miliseconds
+- Total decryption time: 15.919 seconds
+- AVG decryption time: 0.0015919 seconds ~ 1.5919 miliseconds

@@ -1,0 +1,7 @@
+Running command: RSA_CLI.exe encrypt DER pub.bin Text ./all_test_cases/case_2.txt DER ./result/case_2/case_2_cp.txt
+Command executed successfully.
+Overview RSA Encryption Test
+
+Encryption time: 26869 milliseconds
+
+----------------------------------------------------------

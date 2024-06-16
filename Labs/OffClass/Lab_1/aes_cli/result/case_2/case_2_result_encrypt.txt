@@ -1,0 +1,104 @@
+
+
+
+Running command: AES__CLI.exe encrypt ECB key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_ECB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: ECB
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_ECB.txt
+Size of ciphertext file: 10000 bytes
+Encryption time: 17563 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt CBC key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_CBC.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CBC
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_CBC.txt
+Size of ciphertext file: 10000 bytes
+Encryption time: 21875 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt CFB key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_CFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CFB
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_CFB.txt
+Size of ciphertext file: 9998 bytes
+Encryption time: 21445 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt OFB key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_OFB.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: OFB
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_OFB.txt
+Size of ciphertext file: 9998 bytes
+Encryption time: 20333 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt CTR key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_CTR.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CTR
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_CTR.txt
+Size of ciphertext file: 9998 bytes
+Encryption time: 20722 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt XTS key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_XTS.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: XTS
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_XTS.txt
+Size of ciphertext file: 9998 bytes
+Encryption time: 21856 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt GCM key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_GCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: GCM
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_GCM.txt
+Size of ciphertext file: 10010 bytes
+Encryption time: 22053 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe encrypt CCM key_AES.key DER ./all_test_cases/case_2.txt Text ./result/case_2/case_2_cp_CCM.txt DER
+Command executed successfully.
+Overview AES Encryption Test
+Mode: CCM
+Plaintext file: ./all_test_cases/case_2.txt
+Size of plaintext file: 9998 bytes
+Ciphertext file: ./result/case_2/case_2_cp_CCM.txt
+Size of ciphertext file: 10006 bytes
+Encryption time: 21816 milliseconds
+----------------------------------------------------------

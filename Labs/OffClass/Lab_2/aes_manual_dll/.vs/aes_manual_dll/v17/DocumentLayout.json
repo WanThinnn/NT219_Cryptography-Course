@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\aes_manual_dll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F148E6-4E6C-4A92-9589-F1D1F3138D6A}|aes_manual_dll\\aes_manual_dll.vcxproj|C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\aes_manual_dll\\aes_manual_dll\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F148E6-4E6C-4A92-9589-F1D1F3138D6A}|aes_manual_dll\\aes_manual_dll.vcxproj|solutionrelative:aes_manual_dll\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\aes_manual_dll\\aes_manual_dll\\main.cpp",
+              "RelativeDocumentMoniker": "aes_manual_dll\\main.cpp",
+              "ToolTip": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\aes_manual_dll\\aes_manual_dll\\main.cpp",
+              "RelativeToolTip": "aes_manual_dll\\main.cpp",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAwwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T15:37:54.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

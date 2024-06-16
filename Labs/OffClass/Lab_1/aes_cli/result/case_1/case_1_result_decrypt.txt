@@ -1,0 +1,104 @@
+
+
+
+Running command: AES__CLI.exe decrypt ECB key_AES.key DER ./result/case_1/case_1_rcv_ECB.txt Text ./result/case_1/case_1_cp_ECB.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: ECB
+Ciphertext file: ./result/case_1/case_1_cp_ECB.txt
+Size of cipher text file: 1008 bytes
+Recovered text file: ./result/case_1/case_1_rcv_ECB.txt
+Size of recovered text file: 998 bytes
+Decryption time: 11051 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt CBC key_AES.key DER ./result/case_1/case_1_rcv_CBC.txt Text ./result/case_1/case_1_cp_CBC.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: CBC
+Ciphertext file: ./result/case_1/case_1_cp_CBC.txt
+Size of cipher text file: 1008 bytes
+Recovered text file: ./result/case_1/case_1_rcv_CBC.txt
+Size of recovered text file: 998 bytes
+Decryption time: 12841 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt CFB key_AES.key DER ./result/case_1/case_1_rcv_CFB.txt Text ./result/case_1/case_1_cp_CFB.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: CFB
+Ciphertext file: ./result/case_1/case_1_cp_CFB.txt
+Size of cipher text file: 998 bytes
+Recovered text file: ./result/case_1/case_1_rcv_CFB.txt
+Size of recovered text file: 998 bytes
+Decryption time: 13688 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt OFB key_AES.key DER ./result/case_1/case_1_rcv_OFB.txt Text ./result/case_1/case_1_cp_OFB.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: OFB
+Ciphertext file: ./result/case_1/case_1_cp_OFB.txt
+Size of cipher text file: 998 bytes
+Recovered text file: ./result/case_1/case_1_rcv_OFB.txt
+Size of recovered text file: 998 bytes
+Decryption time: 14279 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt CTR key_AES.key DER ./result/case_1/case_1_rcv_CTR.txt Text ./result/case_1/case_1_cp_CTR.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: CTR
+Ciphertext file: ./result/case_1/case_1_cp_CTR.txt
+Size of cipher text file: 998 bytes
+Recovered text file: ./result/case_1/case_1_rcv_CTR.txt
+Size of recovered text file: 998 bytes
+Decryption time: 13875 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt XTS key_AES.key DER ./result/case_1/case_1_rcv_XTS.txt Text ./result/case_1/case_1_cp_XTS.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: XTS
+Ciphertext file: ./result/case_1/case_1_cp_XTS.txt
+Size of cipher text file: 998 bytes
+Recovered text file: ./result/case_1/case_1_rcv_XTS.txt
+Size of recovered text file: 998 bytes
+Decryption time: 14071 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt GCM key_AES.key DER ./result/case_1/case_1_rcv_GCM.txt Text ./result/case_1/case_1_cp_GCM.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: GCM
+Ciphertext file: ./result/case_1/case_1_cp_GCM.txt
+Size of cipher text file: 1010 bytes
+Recovered text file: ./result/case_1/case_1_rcv_GCM.txt
+Size of recovered text file: 998 bytes
+Decryption time: 14411 milliseconds
+----------------------------------------------------------
+
+
+
+Running command: AES__CLI.exe decrypt CCM key_AES.key DER ./result/case_1/case_1_rcv_CCM.txt Text ./result/case_1/case_1_cp_CCM.txt DER
+Command executed successfully.
+Overview AES Decryption Test
+Mode: CCM
+Ciphertext file: ./result/case_1/case_1_cp_CCM.txt
+Size of cipher text file: 1006 bytes
+Recovered text file: ./result/case_1/case_1_rcv_CCM.txt
+Size of recovered text file: 998 bytes
+Decryption time: 14223 milliseconds
+----------------------------------------------------------

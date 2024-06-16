@@ -1,0 +1,8 @@
+- File: ./result_linux/case_4/case_4_result_encrypt.txt
+- Total encryption time: 1530.8 seconds
+- AVG encryption time: 0.15308 seconds ~ 153.08 miliseconds
+
+
+- File: ./result_linux/case_4/case_4_result_decrypt.txt
+- Total decryption time: 2320.5 seconds
+- AVG decryption time: 0.23205 seconds ~ 232.05 miliseconds

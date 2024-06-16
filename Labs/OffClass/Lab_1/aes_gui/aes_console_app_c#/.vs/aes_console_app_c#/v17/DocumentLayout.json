@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_1_2_Offclass\\aes_gui\\aes_console_app_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA2BF3B-4122-41FD-B213-27FBC0817305}|aes_console_app_c#\\aes_console_app_c#.csproj|c:\\users\\thien\\uit\\nam_2\\hoc_ky_2\\mat_ma_hoc\\lab\\lab_1_2_offclass\\aes_gui\\aes_console_app_c#\\aes_console_app_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA2BF3B-4122-41FD-B213-27FBC0817305}|aes_console_app_c#\\aes_console_app_c#.csproj|solutionrelative:aes_console_app_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_1_2_Offclass\\aes_gui\\aes_console_app_c#\\aes_console_app_c#\\Program.cs",
+              "RelativeDocumentMoniker": "aes_console_app_c#\\Program.cs",
+              "ToolTip": "C:\\Users\\Thien\\UIT\\Nam_2\\Hoc_Ky_2\\Mat_Ma_Hoc\\Lab\\Lab_1_2_Offclass\\aes_gui\\aes_console_app_c#\\aes_console_app_c#\\Program.cs",
+              "RelativeToolTip": "aes_console_app_c#\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:04:44.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

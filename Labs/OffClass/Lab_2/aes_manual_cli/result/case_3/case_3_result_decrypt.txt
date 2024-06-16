@@ -1,0 +1,7 @@
+
+Running command: main.exe decrypt HEX key_AES.key HEX ./result/case_3/case_3_cp.txt Text ./result/case_3/case_3_rcv.txt
+Command executed successfully.
+----------------------------------------------------------
+Overview AES CBC Manual Decryption Test
+Decryption time: 1060573 milliseconds
+----------------------------------------------------------

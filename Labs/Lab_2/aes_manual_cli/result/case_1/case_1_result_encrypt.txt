@@ -1,7 +1,0 @@
-
-Running command: main.exe encrypt HEX key_AES.key Text ./all_test_cases/case_1.txt HEX ./result/case_1/case_1_cp.txt
-Command executed successfully.
-----------------------------------------------------------
-Overview AES CBC Manual Encryption Test
-Encryption time: 22081 milliseconds
-----------------------------------------------------------

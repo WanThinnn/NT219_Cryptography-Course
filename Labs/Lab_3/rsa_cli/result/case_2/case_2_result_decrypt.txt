@@ -1,8 +1,0 @@
-
-Running command: RSA_CLI.exe decrypt DER pri.bin DER ./result/case_2/case_2_cp.txt Text ./result/case_2/case_2_rcv.txt
-Command executed successfully.
-Overview RSA Encryption Test
-
-Decryption time: 2255939 milliseconds
-
-----------------------------------------------------------
