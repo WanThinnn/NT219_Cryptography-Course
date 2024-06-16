@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thien\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\\u0110\u1EA1i H\u1ECDc C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\N\u0103m 2\\HK2\\M\u1EADt M\u00E3 H\u1ECDc\\Th\u1EF1c H\u00E0nh\\Lab_1_2_Offclass\\aes_gui\\aes_gui_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1045E2-C76B-4C0E-B2FD-005553A04695}|aes_gui_c#\\aes_gui_c#.csproj|c:\\users\\thien\\onedrive - tr\u01B0\u1EDDng \u0111h cntt - university of information technology\\\u0111\u1EA1i h\u1ECDc c\u00F4ng ngh\u1EC7 th\u00F4ng tin\\n\u0103m 2\\hk2\\m\u1EADt m\u00E3 h\u1ECDc\\th\u1EF1c h\u00E0nh\\lab_1_2_offclass\\aes_gui\\aes_gui_c#\\aes_gui_c#\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE1045E2-C76B-4C0E-B2FD-005553A04695}|aes_gui_c#\\aes_gui_c#.csproj|solutionrelative:aes_gui_c#\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AES.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thien\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\\u0110\u1EA1i H\u1ECDc C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\N\u0103m 2\\HK2\\M\u1EADt M\u00E3 H\u1ECDc\\Th\u1EF1c H\u00E0nh\\Lab_1_2_Offclass\\aes_gui\\aes_gui_c#\\aes_gui_c#\\AES.cs",
+              "RelativeDocumentMoniker": "aes_gui_c#\\AES.cs",
+              "ToolTip": "C:\\Users\\Thien\\OneDrive - Tr\u01B0\u1EDDng \u0110H CNTT - University of Information Technology\\\u0110\u1EA1i H\u1ECDc C\u00F4ng Ngh\u1EC7 Th\u00F4ng Tin\\N\u0103m 2\\HK2\\M\u1EADt M\u00E3 H\u1ECDc\\Th\u1EF1c H\u00E0nh\\Lab_1_2_Offclass\\aes_gui\\aes_gui_c#\\aes_gui_c#\\AES.cs [Design]",
+              "RelativeToolTip": "aes_gui_c#\\AES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:15:24.825Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
