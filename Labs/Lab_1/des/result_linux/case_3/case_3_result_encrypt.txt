@@ -1,0 +1,51 @@
+
+Running command: ./DES__CLI encrypt ECB key_DES.key DER ./all_test_cases/case_3.txt Text ./result_linux/case_3/case_3_cp_ECB.txt DER
+Command executed successfully.
+Overview DES Encryption Test
+Mode: ECB
+Plaintext file: ./all_test_cases/case_3.txt
+Size of plaintext file: 54173 bytes
+Ciphertext file: ./result_linux/case_3/case_3_cp_ECB.txt
+Size of ciphertext file: 54176 bytes
+Encryption time: 14377 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI encrypt CBC key_DES.key DER ./all_test_cases/case_3.txt Text ./result_linux/case_3/case_3_cp_CBC.txt DER
+Command executed successfully.
+Overview DES Encryption Test
+Mode: CBC
+Plaintext file: ./all_test_cases/case_3.txt
+Size of plaintext file: 54173 bytes
+Ciphertext file: ./result_linux/case_3/case_3_cp_CBC.txt
+Size of ciphertext file: 54176 bytes
+Encryption time: 17453 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI encrypt CFB key_DES.key DER ./all_test_cases/case_3.txt Text ./result_linux/case_3/case_3_cp_CFB.txt DER
+Command executed successfully.
+Overview DES Encryption Test
+Mode: CFB
+Plaintext file: ./all_test_cases/case_3.txt
+Size of plaintext file: 54173 bytes
+Ciphertext file: ./result_linux/case_3/case_3_cp_CFB.txt
+Size of ciphertext file: 54173 bytes
+Encryption time: 17373 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI encrypt OFB key_DES.key DER ./all_test_cases/case_3.txt Text ./result_linux/case_3/case_3_cp_OFB.txt DER
+Command executed successfully.
+Overview DES Encryption Test
+Mode: OFB
+Plaintext file: ./all_test_cases/case_3.txt
+Size of plaintext file: 54173 bytes
+Ciphertext file: ./result_linux/case_3/case_3_cp_OFB.txt
+Size of ciphertext file: 54173 bytes
+Encryption time: 17192 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI encrypt CTR key_DES.key DER ./all_test_cases/case_3.txt Text ./result_linux/case_3/case_3_cp_CTR.txt DER
+Command executed successfully.
+Overview DES Encryption Test
+Mode: CTR
+Plaintext file: ./all_test_cases/case_3.txt
+Size of plaintext file: 54173 bytes
+Ciphertext file: ./result_linux/case_3/case_3_cp_CTR.txt
+Size of ciphertext file: 54173 bytes
+Encryption time: 17764 milliseconds
+----------------------------------------------------------

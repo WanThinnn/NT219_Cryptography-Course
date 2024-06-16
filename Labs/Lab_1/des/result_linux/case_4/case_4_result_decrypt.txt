@@ -1,0 +1,51 @@
+
+Running command: ./DES__CLI decrypt ECB key_DES.key DER ./result_linux/case_4/case_4_rcv_ECB.txt Text ./result_linux/case_4/case_4_cp_ECB.txt DER
+Command executed successfully.
+Overview DES Decryption Test
+Mode: ECB
+Ciphertext file: ./result_linux/case_4/case_4_cp_ECB.txt
+Size of cipher text file: 107288 bytes
+Recovered text file: ./result_linux/case_4/case_4_rcv_ECB.txt
+Size of recovered text file: 107282 bytes
+Decryption time: 34042 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI decrypt CBC key_DES.key DER ./result_linux/case_4/case_4_rcv_CBC.txt Text ./result_linux/case_4/case_4_cp_CBC.txt DER
+Command executed successfully.
+Overview DES Decryption Test
+Mode: CBC
+Ciphertext file: ./result_linux/case_4/case_4_cp_CBC.txt
+Size of cipher text file: 107288 bytes
+Recovered text file: ./result_linux/case_4/case_4_rcv_CBC.txt
+Size of recovered text file: 107282 bytes
+Decryption time: 32515 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI decrypt CFB key_DES.key DER ./result_linux/case_4/case_4_rcv_CFB.txt Text ./result_linux/case_4/case_4_cp_CFB.txt DER
+Command executed successfully.
+Overview DES Decryption Test
+Mode: CFB
+Ciphertext file: ./result_linux/case_4/case_4_cp_CFB.txt
+Size of cipher text file: 107282 bytes
+Recovered text file: ./result_linux/case_4/case_4_rcv_CFB.txt
+Size of recovered text file: 107282 bytes
+Decryption time: 33085 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI decrypt OFB key_DES.key DER ./result_linux/case_4/case_4_rcv_OFB.txt Text ./result_linux/case_4/case_4_cp_OFB.txt DER
+Command executed successfully.
+Overview DES Decryption Test
+Mode: OFB
+Ciphertext file: ./result_linux/case_4/case_4_cp_OFB.txt
+Size of cipher text file: 107282 bytes
+Recovered text file: ./result_linux/case_4/case_4_rcv_OFB.txt
+Size of recovered text file: 107282 bytes
+Decryption time: 33306 milliseconds
+----------------------------------------------------------
+Running command: ./DES__CLI decrypt CTR key_DES.key DER ./result_linux/case_4/case_4_rcv_CTR.txt Text ./result_linux/case_4/case_4_cp_CTR.txt DER
+Command executed successfully.
+Overview DES Decryption Test
+Mode: CTR
+Ciphertext file: ./result_linux/case_4/case_4_cp_CTR.txt
+Size of cipher text file: 107282 bytes
+Recovered text file: ./result_linux/case_4/case_4_rcv_CTR.txt
+Size of recovered text file: 107282 bytes
+Decryption time: 38242 milliseconds
+----------------------------------------------------------

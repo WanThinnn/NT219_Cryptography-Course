@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "des_gui_c#/1.0.0": {
+        "runtime": {
+          "des_gui_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "des_gui_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
