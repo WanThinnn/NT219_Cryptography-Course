@@ -1,0 +1,12 @@
+- File: ./result/case_3/case_3_result_encrypt.txt
+- Encryption Time Per Modes: 
+- Total encryption time: 25.95 seconds
+- AVG encryption time: 0.002595 seconds ~ 2.595 miliseconds
+
+
+- File: ./result/case_3/case_3_result_decrypt.txt
+- Decryption Time Per Modes: 
+- Total decryption time: 1409.495 seconds
+- AVG decryption time: 0.1409495 seconds ~ 140.9495 miliseconds
+
+//1,4kbs
