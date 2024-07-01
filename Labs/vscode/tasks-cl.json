@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C/C++: cl.exe build active file",
+            "command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "args": [
+                // "/MTd",  // Link to static libraries
+                "/MD",  // Link to static libraries
+                "/GS",  // Enable security checks
+                "/O2",  // Optimize code for maximum speed
+                "/W4",  // Set warning level to 4
+                "/Zi",  // Generate complete debugging information
+                "/nologo",  // Suppress startup banner
+                "/EHsc",  // Enable C++ exception handling
+                //"/DBUILD_DLL", //Define BUILD_DLL macro
+                "/I${workspaceFolder}\\include",  // Include directory
+                "${file}",  // Input source file
+                "/link",
+                "/DLL",  // Generate DLL
+                "/OUT:${fileDirname}\\${fileBasenameNoExtension}.dll",  // Output file name
+                "/LIBPATH:${workspaceFolder}\\lib\\openssl",  // Library path
+                "libcrypto.lib",  // Link with libcrypto.lib
+                "crypt32.lib",  // Link with crypt32.lib
+                "ws2_32.lib",  // Link with ws2_32.lib
+                "/MACHINE:X64"  // Target a 64-bit machine
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": "build",
+            "detail": "compiler: C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe"
+        }
+    ]
+}
