@@ -1,0 +1,19 @@
+k = laiquanthien1501
+m = xin-chao-the-gioi
+padding = con-meo-de-thuong-qua
+
+sha1 = a4d7ed376e1dba151591d9f643a6e82948aee654
+sha256 = 416c6adddc171a2fe1faa5fd2101d91f37655c7f6f6e21f2ad2eb39a826e831d
+sha512 = 3ac6a3bbd10cbcb8132177f4109dc5f202a375898f3e3987fdd2d90a9652ce2bfb49975eb6c73e95cef34391c1f099586da7312755a9d6905d7231972343a0e5
+
+
+
+sha1
+./hashpump -s 'a4d7ed376e1dba151591d9f643a6e82948aee654' -d 'xin-chao-the-gioi' -a 'con-meo-de-thuong-qua' -k 16
+
+sha256
+./hashpump -s '416c6adddc171a2fe1faa5fd2101d91f37655c7f6f6e21f2ad2eb39a826e831d' -d 'xin-chao-the-gioi' -a 'con-meo-de-thuong-qua' -k 16
+
+sha512
+./hashpump -s '3ac6a3bbd10cbcb8132177f4109dc5f202a375898f3e3987fdd2d90a9652ce2bfb49975eb6c73e95cef34391c1f099586da7312755a9d6905d7231972343a0e5' -d 'xin-chao-the-gioi' -a 'con-meo-de-thuong-qua' -k 16
+
