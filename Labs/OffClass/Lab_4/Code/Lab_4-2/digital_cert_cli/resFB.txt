@@ -1,0 +1,18 @@
+- Website certificate is valid.
+- Subject Name: /C=US/ST=California/L=Menlo Park/O=Meta Platforms, Inc./CN=*.facebook.com
+- Issuer Name: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+- Subject Public Key Info:
++ Public Key Algorithm: id-ecPublicKey
++ Public-Key: 256 bits 
+2D:2D:2D:2D:2D:42:45:47:49:4E:20:50:55:42:4C
+49:43:20:4B:45:59:2D:2D:2D:2D:2D:0A:4D:46:6B
+77:45:77:59:48:4B:6F:5A:49:7A:6A:30:43:41:51
+59:49:4B:6F:5A:49:7A:6A:30:44:41:51:63:44:51
+67:41:45:42:4D:75:59:52:66:55:52:4B:74:72:48
+49:58:6C:62:67:34:72:52:35:79:35:4B:7A:57:33
+2F:0A:59:4F:33:2F:30:48:69:49:48:67:46:57:74
+6F:43:47:4F:69:43:4B:48:79:59:4C:59:69:47:35
+4A:41:39:75:71:4D:4A:2F:50:35:5A:61:52:4F:44
+73:4B:59:78:39:31:6C:69:44:79:4F:38:36:4C:51
+3D:3D:0A:2D:2D:2D:2D:2D:45:4E:44:20:50:55:42
+4C:49:43:20:4B:45:59:2D:2D:2D:2D:2D:0A
